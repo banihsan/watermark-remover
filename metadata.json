@@ -1,0 +1,6 @@
+{
+  "name": "Video Watermark Remover",
+  "description": "A powerful video watermark removal web application with interactive bounding box selection, delogo filters, blur masks, cropping, and instant export using server-side FFmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
